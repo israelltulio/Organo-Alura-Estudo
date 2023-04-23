@@ -1,7 +1,7 @@
 .lista-suspensa label {
     display: block;
     margin-bottom: 8px;
-    font-size: 24px;
+    font-size: 18px;
 }
 
 .lista-suspensa select {
@@ -10,7 +10,7 @@
     width: 100%;
     border-radius: 10px;
     border: none;
-    font-size: 24px;
-    padding: 24px;
+    font-size: 14px;
+    padding: 16px;
     box-sizing: border-box;
 }
